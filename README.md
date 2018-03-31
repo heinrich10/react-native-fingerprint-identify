@@ -165,3 +165,7 @@ Feel free to [open an issue](https://github.com/williamtran29/react-native-finge
 If this project help you reduce time to develop, you can give me a cup of coffee :)
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5A4DTX8DE85VN)
+
+# Note
+
+this package is forked from [react-native-fingerprint-identify](https://github.com/williamtran29/react-native-fingerprint-identify). we need an updated version so I temporarily publish as react-native-fingerprint-identity-1
